@@ -1,2 +1,2 @@
-# Automating-AWS-Using-Python
-Using python scripts to automate AWS environment
+# Automating-AWS-Environment-Using-Python
+Using python scripts to automate AWS environment and it's infrastructure. !
